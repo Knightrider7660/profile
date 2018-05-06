@@ -54,7 +54,7 @@
                         </p>
                         <p style="line-height: 21px;font-size: 17px;padding-top:14px;">
                            Working With: <br />
-						   1. PHP
+						   1. PHP <br/>
 						   2. Laravel <br />
 						   3. HTML <br />
 						   4. CSS <br /> 

@@ -53,7 +53,7 @@
                            I am Sukanta Purkayastha. A student of CSE department of Leading University.
                         </p>
                         <p style="line-height: 21px;font-size: 17px;padding-top:14px;">
-                           Work With: <br />
+                           Working With: <br />
 						   1. Laravel <br />
 						   2. HTML <br />
 						   3. CSS <br /> 

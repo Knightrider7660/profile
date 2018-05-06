@@ -62,7 +62,7 @@
                         <p style="line-height: 21px;font-size: 17px;padding-top:14px;">
                            In life and business, I live by a simple motto:
                         </p>
-                        <p class="goal">Always Be Learning</p>
+                        <p class="goal">Always Be a Learner</p>
                         <p class="icons">
                            <a href="http://www.facebook.com/showrav.purkayastha.9" target="_blank">
                            <i style="background-color: #5189b9; color:#fff" class="fa fa-facebook" aria-hidden="true"></i>

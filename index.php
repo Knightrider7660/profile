@@ -30,7 +30,7 @@
             <h2 ><i>I'm Sukanta Showrav</i></h2>
             <p >Welcome to My Little Website!!!</p>
             <br />
-            <a data-scroll href="#contact"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Sent Me Email</a>
+            <a data-scroll href="#contact"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> &nbsp; Send Me Email</a>
          </div>
       </section>
       <!-- Home -->
@@ -54,10 +54,11 @@
                         </p>
                         <p style="line-height: 21px;font-size: 17px;padding-top:14px;">
                            Working With: <br />
-						   1. Laravel <br />
-						   2. HTML <br />
-						   3. CSS <br /> 
-						   4. JavaScript ( Knowledge about 0 [ Zero ] )
+						   1. PHP
+						   2. Laravel <br />
+						   3. HTML <br />
+						   4. CSS <br /> 
+						   5. JavaScript ( Knowledge about 0 [ Zero ] )
                         </p>
                         <p style="line-height: 21px;font-size: 17px;padding-top:14px;">
                            In life and business, I live by a simple motto:

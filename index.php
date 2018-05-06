@@ -12,6 +12,11 @@
       <link rel="stylesheet" type="text/css" href="assets/css/style.css">
    </head>
    <body>
+       <!-- Top Scrollbar -->
+       <div class="top_scroll">
+	  <a data-scroll href="#home_section"><i class="fa fa-arrow-up"></i></a>
+	</div>
+      <!-- Top Scrollbar -->
       <!-- Navbar -->
       <nav id="navigation">
          <a data-scroll  href="#home_section" >Home</a>

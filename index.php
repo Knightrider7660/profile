@@ -67,8 +67,8 @@
                            <a href="http://www.facebook.com/showrav.purkayastha.9" target="_blank">
                            <i style="background-color: #5189b9; color:#fff" class="fa fa-facebook" aria-hidden="true"></i>
                            </a>
-                           <a href="https://www.instagram.com/sp.showrav/" target="_blank">
-                           <i style="background-color: #c56579; color:#fff" class="fa fa-instagram" aria-hidden="true"></i>
+                           <a href="https://plus.google.com/u/1/102582837554851118413" target="_blank">
+                           <i style="background-color: #c56579; color:#fff" class="fa fa-google-plus" aria-hidden="true"></i>
                            </a>
                            <a href="https://www.linkedin.com/in/sukanta-purkayastha-624b13134/" target="_blank">
                            <i style="background-color: #5189b9; color:#fff" class="fa fa-linkedin" aria-hidden="true"></i>
@@ -181,16 +181,16 @@
                   <div class="sharing">
                      <h3 style="color:#3495d4;">Sharing & Caring</h3>
                      <p class="share_icons">
-                        <a href="https://www.facebook.com/sharer/sharer.php?u=http://www.facebook.com/showrav.purkayastha.9" target="_blank">
+                        <a href="https://www.facebook.com/sharer/sharer.php?u=https://sukantaprofile.herokuapp.com/" target="_blank">
                         <i style="background-color: #5189b9; color:#fff" class="fa fa-facebook" aria-hidden="true"></i>
                         </a>
-                        <a href="https://www.instagram.com/sp.showrav/" target="_blank">
-                        <i style="background-color: #c56579; color:#fff" class="fa fa-instagram" aria-hidden="true"></i>
+                        <a href="https://plus.google.com/share?url=https://sukantaprofile.herokuapp.com/" target="_blank">
+                        <i style="background-color: #c56579; color:#fff" class="fa fa-google-plus" aria-hidden="true"></i>
                         </a>
-                        <a href="http://www.linkedin.com/shareArticle?mini=true&url=http://www.facebook.com/showrav.purkayastha.9" target="_blank">
+                        <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://sukantaprofile.herokuapp.com/" target="_blank">
                         <i style="background-color: #5189b9; color:#fff" class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
-                        <a href="https://twitter.com/intent/tweet?text=Sukanta Showrav: Always Be Learning" target="_blank">
+                        <a "https://twitter.com/intent/tweet?url=https://sukantaprofile.herokuapp.com&text=John Meese: Always Be Teaching&" target="_blank">
                         <i style="background-color: #5189b9; color:#fff" class="fa fa-twitter" aria-hidden="true"></i>
                         </a>
                      </p>

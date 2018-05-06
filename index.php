@@ -190,7 +190,7 @@
                         <a href="http://www.linkedin.com/shareArticle?mini=true&url=https://sukantaprofile.herokuapp.com/" target="_blank">
                         <i style="background-color: #5189b9; color:#fff" class="fa fa-linkedin" aria-hidden="true"></i>
                         </a>
-                        <a href="https://twitter.com/intent/tweet?url=https://sukantaprofile.herokuapp.com&text=John Meese: Always Be Teaching&" target="_blank">
+                        <a href="https://twitter.com/intent/tweet?url=https://sukantaprofile.herokuapp.com&text=Sukanta Showrav: Always Be Learning" target="_blank">
                         <i style="background-color: #5189b9; color:#fff" class="fa fa-twitter" aria-hidden="true"></i>
                         </a>
                      </p>
